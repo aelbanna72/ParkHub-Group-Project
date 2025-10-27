@@ -6,6 +6,11 @@
     Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
 
 
+As a user, they would like to know where the nearest parking is to the location, so that they know before setting off where to go.
+
+As a user, they would like to know what the best-priced parking is around the location, so that they know before setting off, the best parking for them.
+
+
 ### Actors          TODO: List and describe the actors/users for this product.
 
 
